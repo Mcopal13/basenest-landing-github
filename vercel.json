@@ -1,6 +1,6 @@
 {
   "version": 2,
   "builds": [
-    { "src": "pages/index.jsx", "use": "@vercel/next" }
+    { "src": "package.json", "use": "@vercel/next" }
   ]
 }
